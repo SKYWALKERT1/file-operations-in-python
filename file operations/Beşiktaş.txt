@@ -1,0 +1,12 @@
+futbolcular,mevki
+destanoğlu,kaleci
+masuaku,solbek
+uysal,stoper
+sanuç,stoper
+rosier,defans
+redmond,sağortasaha
+uçan,ortasaha
+gedson,ortasaha
+nkoudou,forvet
+muleka,forvet
+tosun,forvet

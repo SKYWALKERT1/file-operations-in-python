@@ -1,0 +1,12 @@
+futbolcular,mevki
+icardi,forvet
+muslera,kaleci
+sachaboey,sağbek
+angelinho,solbek
+torreira,ortasaha
+mertens,orta saha
+nelsson,defans
+Abdülkerim,defans
+kerem,solkanat
+tete,sağkanat
+zaha,ortasaha

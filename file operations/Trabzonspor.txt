@@ -1,0 +1,12 @@
+futbolcular,mevki
+çakır,kaleci
+larsen,defans
+benkovic,defans
+fernandez,orta saha
+elmalı,defans
+mendy,defans
+özdemir,orta saha
+visca,sağ orta saha
+ömür,orta saha
+pepe,sağ kanat
+onuachu,forvet

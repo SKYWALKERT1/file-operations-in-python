@@ -1,0 +1,12 @@
+futbolcular,mevki
+lıvakovic,kaleci
+osayi-samuel,sağ kanat
+djiku,stoper
+oosterwolde,defans
+Kadıoğlu,ortasaha
+yüksek,önlibero
+fred,forvet
+can,ortasaha
+szymanski,sağkanat
+mor,orta saha
+dzeko,forvet
