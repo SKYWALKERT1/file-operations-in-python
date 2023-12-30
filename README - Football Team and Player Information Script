@@ -1,0 +1,25 @@
+### Overview
+This Python script is designed to create and manage text files containing information about football teams and their players. 
+The script reads and writes data related to players' names and positions for each team. 
+The teams included in this example are Galatasaray, Fenerbahçe, Beşiktaş, and Trabzonspor.
+
+### How to Use
+
+#### 1. Running the Script
+Make sure you have Python installed on your system.
+Copy and paste the provided code into a Python script file (e.g., football_teams_script.py).
+Run the script.
+
+### 2. Output Files
+The script will create a text file for each football team (e.g., Galatasaray.txt, Fenerbahçe.txt, etc.) in the current working directory.
+
+### 3. File Content
+Each team's text file contains lines of player information in the format player_name, position.
+The first line in each file provides the headers futbolcular,mevki.
+
+### 4. Viewing Player Information
+After running the script, you can check the generated text files to view the player information for each team.
+
+## File Structure
+football_teams_script.py: The main Python script file.
+Galatasaray.txt, Fenerbahçe.txt, Beşiktaş.txt, Trabzonspor.txt: Text files containing player information for each team.
